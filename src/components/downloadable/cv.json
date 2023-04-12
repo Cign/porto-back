@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_downloadable_cvs",
+  "info": {
+    "displayName": "cv"
+  },
+  "options": {},
+  "attributes": {
+    "file": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "label": {
+      "type": "string"
+    }
+  }
+}

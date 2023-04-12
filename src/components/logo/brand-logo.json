@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_logo_brand_logos",
+  "info": {
+    "displayName": "brandLogo"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

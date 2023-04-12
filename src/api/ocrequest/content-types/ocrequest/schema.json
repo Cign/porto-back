@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ocrequests",
+  "info": {
+    "singularName": "ocrequest",
+    "pluralName": "ocrequests",
+    "displayName": "ocrequest"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "lang": {
+      "type": "string"
+    }
+  }
+}

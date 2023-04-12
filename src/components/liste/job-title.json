@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_liste_job_titles",
+  "info": {
+    "displayName": "jobTitle"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}
