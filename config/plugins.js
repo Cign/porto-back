@@ -11,11 +11,4 @@ module.exports = {
         }
       }
     },
-    upload: {
-      provider: 'local',
-      providerOptions: {
-        dynamicallyPrefixed: true|false,
-        basePath: 'https://porto-back-production.up.railway.app'
-      }
-    }
   }
